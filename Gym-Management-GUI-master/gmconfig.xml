@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Lenovo\Documents\Gym-Management-GUI-master (1)\Gym-Management-GUI-master\dist\GymManagement.jar</jar>
+  <outfile>C:\Users\Lenovo\Desktop\GymManagement.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Lenovo\Documents\fitness+gym+gymnasium+icon-1320168052118785594 (1).ico</icon>
+  <singleInstance>
+    <mutexName>GymManagement.exe</mutexName>
+    <windowTitle>GymManagement.exe</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>JRE</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

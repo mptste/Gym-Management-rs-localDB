@@ -1,0 +1,74 @@
+
+D
+java:S1604ª"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+m
+java:S2095Ç"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùò¼¸8»…¥ğ»1
+m
+java:S2095ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùò¼¸8¼…¥ğ»1
+u
+java:S1450²"YRemove the "backbutton" field and declare it as a local variable in the relevant methods.(€…¯¸ÿÿÿÿÿ
+p
+java:S1450³"YRemove the "exitbutton" field and declare it as a local variable in the relevant methods.(‡¬¸
+p
+java:S1450´"YRemove the "jComboBox1" field and declare it as a local variable in the relevant methods.(ëõ«­
+r
+java:S1450µ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450¶"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450·"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+v
+java:S1450¸"ZRemove the "resetbutton" field and declare it as a local variable in the relevant methods.(‚âŠ‹üÿÿÿÿ
+r
+java:S1450º"[Remove the "signupbutton" field and declare it as a local variable in the relevant methods.(¨¹åÅ
+U
+java:S1161B":Add the "@Override" annotation above this method signature(óÚ°ùÿÿÿÿ
+P
+java:S1161I":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161P":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161W":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161^":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161e":Add the "@Override" annotation above this method signature(†ŒË³
+A
+java:S1172©"*Remove this unused method parameter "evt".(åÅèİ
+N
+java:S1135ª"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172®"*Remove this unused method parameter "evt".(ıäÒøÿÿÿÿ
+N
+java:S1135¯"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172´"*Remove this unused method parameter "evt".(ŒÜ–½
+N
+java:S1135µ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172»"*Remove this unused method parameter "evt".(°¶ß‡üÿÿÿÿ
+N
+java:S1135¼"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1874¿"/Remove this use of "getText"; it is deprecated.(ÜÂğ¥
+K
+java:S1874Ê"/Remove this use of "getText"; it is deprecated.(ê¸³æøÿÿÿÿ
+A
+java:S1172Ü"*Remove this unused method parameter "evt".(õÊ‰¿
+N
+java:S1135İ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+N
+java:S1135æ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1874ê"/Remove this use of "getText"; it is deprecated.(ÜÂğ¥
+K
+java:S1874õ"/Remove this use of "getText"; it is deprecated.(ê¸³æøÿÿÿÿ
+F
+java:S1197Œ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147›"ECombine this catch with the one at line 281, which has the same body.(¨¦Š½
+\
+java:S2147"ECombine this catch with the one at line 283, which has the same body.(ã€ 
+[
+java:S2147Ÿ"ECombine this catch with the one at line 285, which has the same body.(ñÎ¯%
+A	java:S106¦"+Replace this use of System.err by a logger.(ı×¯Í

@@ -1,0 +1,50 @@
+
+D
+java:S1604Ø"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+u
+java:S1450à"YRemove the "backbutton" field and declare it as a local variable in the relevant methods.(€…¯¸ÿÿÿÿÿ
+u
+java:S1450â"^Remove the "calculatebutton" field and declare it as a local variable in the relevant methods.(–¢ÓŠ
+q
+java:S1450ã"ZRemove the "clearbutton" field and declare it as a local variable in the relevant methods.(¾–Ç
+r
+java:S1450å"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450æ"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450ç"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450è"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+w
+java:S1450é"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+m
+java:S1450ê"VRemove the "jTable1" field and declare it as a local variable in the relevant methods.(Ğÿ¿×
+P
+java:S11619":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161@":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161W":Add the "@Override" annotation above this method signature(†ŒË³
+A
+java:S1172œ"*Remove this unused method parameter "evt".(«®‘Ò
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172©"*Remove this unused method parameter "evt".(ÜŞ®ô
+N
+java:S1135ª"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172°"*Remove this unused method parameter "evt".(ŒÜ–½
+N
+java:S1135±"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197º"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147É"ECombine this catch with the one at line 199, which has the same body.(¨¦Š½
+\
+java:S2147Ë"ECombine this catch with the one at line 201, which has the same body.(ã€ 
+[
+java:S2147Í"ECombine this catch with the one at line 203, which has the same body.(ñÎ¯%
+A	java:S106Ô"+Replace this use of System.err by a logger.(ı×¯Í
+b
+java:S1128"@Remove this unused import 'javax.swing.table.DefaultTableModel'.(è†åûÿÿÿÿ8Š¥ğ»1

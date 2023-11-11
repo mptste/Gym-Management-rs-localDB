@@ -1,0 +1,112 @@
+
+a
+java:S1192L"KDefine a constant instead of duplicating this literal "dd-MM-yyyy" 3 times.(¹ºÎ™
+a
+java:S1192M"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(ü¬Œ€
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üËÚ´ùÿÿÿÿ
+l	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡œÌÌüÿÿÿÿ
+D
+java:S1604©"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+l
+java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùò¼¸8‰¥ğ»1
+m
+java:S2095ˆ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùò¼¸8‰¥ğ»1
+m
+java:S2095ß"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùò¼¸8‰¥ğ»1
+m
+java:S2095·"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùò¼¸8Š¥ğ»1
+w
+java:S1450¸"[Remove the "deletebutton" field and declare it as a local variable in the relevant methods.(–‹Ê¾ÿÿÿÿÿ
+|
+java:S1450¹"`Remove the "exporttopdfbutton" field and declare it as a local variable in the relevant methods.(Üöœâùÿÿÿÿ
+r
+java:S1450¼"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450½"WRemove the "jLabel13" field and declare it as a local variable in the relevant methods.(ÑİĞİıÿÿÿÿ
+r
+java:S1450¾"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450¿"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450À"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450Á"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+m
+java:S1450Â"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450Ã"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+w
+java:S1450Ä"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+r
+java:S1450Æ"[Remove the "logoutbutton" field and declare it as a local variable in the relevant methods.(ÓæÉ¤
+v
+java:S1450Ê"ZRemove the "resetbutton" field and declare it as a local variable in the relevant methods.(‚âŠ‹üÿÿÿÿ
+w
+java:S1450Ì"[Remove the "submitbutton" field and declare it as a local variable in the relevant methods.(à©™œşÿÿÿÿ
+w
+java:S1450Í"[Remove the "updatebutton" field and declare it as a local variable in the relevant methods.(ûí÷ıÿÿÿÿ
+\
+java:S3252F"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Œ‚ÂÉıÿÿÿÿ
+\
+java:S3252W"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(†ŒË³
+V
+java:S1161É":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ
+Q
+java:S1161Ø":Add the "@Override" annotation above this method signature(†ŒË³
+F
+java:S1172¾"*Remove this unused method parameter "evt".(ù½§×úÿÿÿÿ
+N
+java:S1135¿"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172Å"*Remove this unused method parameter "evt".(ıäÒøÿÿÿÿ
+N
+java:S1135Æ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172Ê"*Remove this unused method parameter "evt".(·úñ
+N
+java:S1135Ë"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+N
+java:S1854ï"7Remove this useless assignment to local variable "row".(¼ëƒû
+A
+java:S1172Ó"*Remove this unused method parameter "evt".(çòú
+N
+java:S1135Ô"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+?
+java:S1481ï"(Remove this unused "row" local variable.(¼ëƒû
+F
+java:S1172„"*Remove this unused method parameter "evt".(ıÃçËøÿÿÿÿ
+N
+java:S1135…"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172¨"*Remove this unused method parameter "evt".(¶À“†ûÿÿÿÿ
+N
+java:S1135©"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172Ê"*Remove this unused method parameter "evt".(È„Œúÿÿÿÿ
+N
+java:S1135Ë"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172è"*Remove this unused method parameter "evt".(ş–¥ëıÿÿÿÿ
+N
+java:S1135é"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197ƒ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147•"ECombine this catch with the one at line 529, which has the same body.(¨¦Š½
+\
+java:S2147™"ECombine this catch with the one at line 533, which has the same body.(ã€ 
+[
+java:S2147"ECombine this catch with the one at line 537, which has the same body.(ñÎ¯%
+A	java:S106¥"+Replace this use of System.err by a logger.(ı×¯Í

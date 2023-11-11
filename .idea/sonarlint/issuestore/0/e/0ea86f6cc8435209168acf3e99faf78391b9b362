@@ -1,0 +1,53 @@
+
+D
+java:S1604Ã"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+u
+java:S1450Ë"_Remove the "addmanagemembers" field and declare it as a local variable in the relevant methods.(”ÀŞp
+u
+java:S1450Ì"YRemove the "backbutton" field and declare it as a local variable in the relevant methods.(€…¯¸ÿÿÿÿÿ
+p
+java:S1450Í"YRemove the "exitbutton" field and declare it as a local variable in the relevant methods.(‡¬¸
+n
+java:S1450Î"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+r
+java:S1450Ï"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450Ğ"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+P
+java:S11615":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161<":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161C":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161J":Add the "@Override" annotation above this method signature(†ŒË³
+A
+java:S1172„"*Remove this unused method parameter "evt".(ŒÜ–½
+N
+java:S1135…"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172‹"*Remove this unused method parameter "evt".(õ—¼×
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172–"*Remove this unused method parameter "evt".(åÅèİ
+N
+java:S1135—"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172›"*Remove this unused method parameter "evt".(óÄÔØøÿÿÿÿ
+N
+java:S1135œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197¥"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147´"ECombine this catch with the one at line 178, which has the same body.(¨¦Š½
+\
+java:S2147¶"ECombine this catch with the one at line 180, which has the same body.(ã€ 
+[
+java:S2147¸"ECombine this catch with the one at line 182, which has the same body.(ñÎ¯%
+A	java:S106¿"+Replace this use of System.err by a logger.(ı×¯Í
+M
+java:S1128	"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ8”ˆ¥ğ»1
+I
+java:S1128
+",Remove this unused import 'java.net.Socket'.(­‡àú8”ˆ¥ğ»1
